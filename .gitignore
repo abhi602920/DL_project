@@ -1,0 +1,8 @@
+env/
+runs/
+runs - Copy/
+__pycache__/
+*.pyc
+*.pt
+.ipynb_checkpoints/
+PPE vest helmet.v1i.yolov8-obb/

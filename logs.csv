@@ -1,0 +1,13 @@
+UNSAFE,person,"**Safety Issue:** A person has been detected within the designated unsafe area.
+This poses an immediate risk to their well-being and security.
+**Suggestion:** Immediately ensure the person's safety and remove them from the hazardous environment."
+person,"Here is the safety check:
+
+1.  **Is the worker wearing a helmet?** Yes
+2.  **Is the worker wearing a safety vest?** Yes
+3.  **Final status:** SAFE
+4.  **Short explanation:** The worker is wearing a hard hat and a high-visibility safety vest, which are crucial personal protective equipment for head protection and visibility in an industrial environment. Additionally, the worker is wearing work gloves."
+person,"Helmet: Yes
+Vest: Yes
+Status: SAFE
+Reason: The worker is wearing a helmet (hard hat), a high-visibility vest, and safety gloves, all of which are appropriate Personal Protective Equipment for a construction site."
