@@ -249,7 +249,7 @@ if mode == "Upload Image" and uploaded_file:
     st.subheader("🧠 AI Image Explanation")
 
     if st.button("Explain Image"):
-        st.session_state.image_explanation = explain_image(image)
+        st.session_state.image_explanation = explain_image(image,status,reason)
 
     if st.session_state.image_explanation:
         st.write(st.session_state.image_explanation)
