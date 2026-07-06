@@ -36,7 +36,7 @@ h1 {
 st.title("🚧 AI-Based PPE Compliance Monitoring System")
 
 # ---------- LOAD MODELS ----------
-model_yolo = YOLO("best_ppe_model.pt")
+model_yolo = YOLO("models/best_ppe_model.pt")
 
 genai.configure(api_key=os.getenv("GOOGLE_API_KEY1"))
 model_gemini = genai.GenerativeModel("models/gemini-2.5-flash")

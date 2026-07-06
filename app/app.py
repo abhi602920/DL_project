@@ -34,7 +34,7 @@ st.title("🚧 AI Safety Monitoring + Chatbot")
 # ---------- LOAD MODELS ----------
 genai.configure(api_key=os.getenv("GOOGLE_API_KEY1"))
 model = genai.GenerativeModel('models/gemini-2.0-flash')
-model_yolo = YOLO("best.pt")
+model_yolo = YOLO("models/best_ppe_model.pt")
 # ---------- CHAT FUNCTION ----------
 def rag_chat(question, analysis, image, mode):
     q = question.lower()
