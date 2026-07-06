@@ -91,6 +91,7 @@ GOOGLE_API_KEY=YOUR_GEMINI_API_KEY
 
 <img width="1417" height="493" alt="Screenshot 2026-07-06 112034" src="https://github.com/user-attachments/assets/36355f3b-8307-480a-8ccb-e6de64e11d39" />
 
+<img width="1447" height="842" alt="Screenshot 2026-07-06 112055" src="https://github.com/user-attachments/assets/b6a781c5-9640-481b-8827-64bef2715ab4" />
 
 
 ---
